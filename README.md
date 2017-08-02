@@ -1,5 +1,6 @@
 # opener-docker-pos-tagger
 
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cwolff/opener-docker-pos-tagger.svg)](https://hub.docker.com/r/cwolff/opener-docker-pos-tagger/)
 
 Dockerfile for OpeNER part-of-speech tagger service.
